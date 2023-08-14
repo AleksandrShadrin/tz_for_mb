@@ -1,0 +1,12 @@
+E:\OneDrive\Projects\tz\Figures\src\Figures\bin\Debug\net7.0\Figures.deps.json
+E:\OneDrive\Projects\tz\Figures\src\Figures\bin\Debug\net7.0\Figures.dll
+E:\OneDrive\Projects\tz\Figures\src\Figures\bin\Debug\net7.0\Figures.pdb
+E:\OneDrive\Projects\tz\Figures\src\Figures\obj\Debug\net7.0\Figures.csproj.AssemblyReference.cache
+E:\OneDrive\Projects\tz\Figures\src\Figures\obj\Debug\net7.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Projects\tz\Figures\src\Figures\obj\Debug\net7.0\Figures.AssemblyInfoInputs.cache
+E:\OneDrive\Projects\tz\Figures\src\Figures\obj\Debug\net7.0\Figures.AssemblyInfo.cs
+E:\OneDrive\Projects\tz\Figures\src\Figures\obj\Debug\net7.0\Figures.csproj.CoreCompileInputs.cache
+E:\OneDrive\Projects\tz\Figures\src\Figures\obj\Debug\net7.0\Figures.dll
+E:\OneDrive\Projects\tz\Figures\src\Figures\obj\Debug\net7.0\refint\Figures.dll
+E:\OneDrive\Projects\tz\Figures\src\Figures\obj\Debug\net7.0\Figures.pdb
+E:\OneDrive\Projects\tz\Figures\src\Figures\obj\Debug\net7.0\ref\Figures.dll
